@@ -4,7 +4,7 @@ This PowerShell Repository is a library of useful PowerShell [modules](https://g
 
 ## Modules
 
-You can find all the modules in this repository in the [SutterStudios PowerShell Gallery](https://www.powershellgallery.com/profiles/SutterStudios).
+You can find all the modules mentioned below in the [SutterStudios PowerShell Gallery](https://www.powershellgallery.com/profiles/SutterStudios).
 
 Below are the modules I have created with the short description of the module and a like to that modules dedicated repo.
 
