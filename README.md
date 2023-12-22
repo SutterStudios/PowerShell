@@ -1,8 +1,6 @@
 # PowerShell
 
-## Introduction
-
-This PowerShell Repository is a library of useful PowerShell [modules](), [functions/scripts](), and [other information](). Welcome to one of my corners of the internet. Here I am going to put a few general PowerShell modules that I built to fix some of the issues I have had. Similar functionality for the majority exists already but I find some of the implemenation of the topics I've worked on severly lacking and / or horribly implmented. Hopefully you will find some of these helpful.
+This PowerShell Repository is a library of useful PowerShell [modules](https://github.com/SutterStudios/PowerShell#modules), [functions/scripts](https://github.com/SutterStudios/PowerShell#functions--scripts), and [other information](https://github.com/SutterStudios/PowerShell#other-information). Welcome to one of my corners of the internet. Here I am going to put a few general PowerShell modules that I built to fix some of the issues I have had. Similar functionality for the majority exists already but I find some of the implemenation of the topics I've worked on severly lacking and / or horribly implmented. Hopefully you will find some of these helpful.
 
 ## Modules
 
